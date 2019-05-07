@@ -1,5 +1,5 @@
 // Version 1.0.0 - Initial release
-// Version 1.1.0 (2017-08-02) - Added cmdp function that returns promise instead of using callback
+
 
 
 const CMD_INNER_READY = 'innerReady'
