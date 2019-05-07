@@ -1,5 +1,4 @@
 
-
 const CMD_INNER_READY = 'innerReady'
 const CMD_RESPONSE = 'response'
 const CMD_WRAPPER_READY = 'wrapperReady'
